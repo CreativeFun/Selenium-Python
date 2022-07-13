@@ -1,0 +1,7 @@
+Napisz test (python + selenium webdriver), który:
+- wejdzie na stronę https://www.selenium.dev/
+- wyszuka dowolne hasło i przejdzie do wyszukanej strony (search - prawy górny róg strony)
+- przejdzie do sekcji 'Downloads'
+- pobierze instalkę Selenium Server (Grid) z linku 'Latest stable version 4.3.0'
+
+Deadline 15.07 do końca dnia
